@@ -1,5 +1,6 @@
 import { Banner } from "./components/Banner";
 import { Background } from "./components/Background";
+import { Diagnosis } from "./components/Diagnosis";
 
 import "./App.css";
 
@@ -8,6 +9,7 @@ function App() {
     <div className="App">
       <Banner />
       <Background />
+      <Diagnosis />
     </div>
   );
 }
