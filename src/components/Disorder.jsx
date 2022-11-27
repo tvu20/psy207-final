@@ -5,7 +5,7 @@ import ions from "../images/bipolarion.png";
 
 export const Disorder = () => {
   return (
-    <div className="background-container">
+    <div className="background-container" style={{ padding: "0 15px" }}>
       <div className="flex-container flex-container-2">
         <div className="flex-item__diagram">
           <img src={facts} alt="carrie fisher" />

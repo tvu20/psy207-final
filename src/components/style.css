@@ -134,6 +134,10 @@ figcaption {
   color: #403934;
 }
 
+a {
+  color: #75655f;
+}
+
 @media (max-width: 900px) {
   .flex-container-2 {
     flex-direction: column;
