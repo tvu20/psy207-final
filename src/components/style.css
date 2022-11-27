@@ -75,6 +75,31 @@
   max-width: 400px;
 }
 
+.flex-item__diagram {
+  flex-grow: 2;
+  padding: 0 15px;
+}
+
+.flex-item__diagram img {
+  width: 100%;
+  max-width: 600px;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 12px;
+}
+
+@media (max-width: 900px) {
+  .flex-container-2 {
+    flex-direction: column;
+  }
+
+  .flex-item__diagram {
+    padding: 20px 15px;
+  }
+}
+
 @media (max-width: 600px) {
   .banner-container h1 {
     font-size: 45px;
@@ -86,9 +111,6 @@
 
   .flex-container {
     flex-direction: column;
-    /* justify-content: center;
-        align-items: center;
-        font-family: "Inria Serif", serif; */
   }
 
   .flex-item {
