@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/psy207-final/static/css/main.6d1c80b1.css",
+    "main.js": "/psy207-final/static/js/main.d1c355c9.js",
+    "static/js/787.3a521ea3.chunk.js": "/psy207-final/static/js/787.3a521ea3.chunk.js",
+    "static/media/bipolarion.png": "/psy207-final/static/media/bipolarion.5f44c55e9e9ee4965080.png",
+    "static/media/bipolardiagnosis.png": "/psy207-final/static/media/bipolardiagnosis.2f58605538ad56b9ea53.png",
+    "index.html": "/psy207-final/index.html",
+    "main.6d1c80b1.css.map": "/psy207-final/static/css/main.6d1c80b1.css.map",
+    "main.d1c355c9.js.map": "/psy207-final/static/js/main.d1c355c9.js.map",
+    "787.3a521ea3.chunk.js.map": "/psy207-final/static/js/787.3a521ea3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d1c80b1.css",
+    "static/js/main.d1c355c9.js"
+  ]
+}
