@@ -1,5 +1,5 @@
 .banner-container {
-  background-color: #aca094;
+  background-color: #b3a59b;
   padding: 40px 50px;
 }
 
@@ -45,7 +45,7 @@
 .background-container__quote h3 {
   font-family: "Inria Serif", serif;
   font-style: italic;
-  font-size: 1.2em;
+  font-size: 1.5em;
   font-weight: 400;
 }
 
@@ -56,6 +56,13 @@
   justify-content: center;
   align-items: center;
   font-family: "Inria Serif", serif;
+}
+
+.flex-container h3 {
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 300;
+  font-family: "Inter", sans-serif;
 }
 
 .flex-item {
@@ -115,6 +122,18 @@ figcaption {
   border-right: 1px solid #695b57;
 }
 
+.footer-container {
+  background-color: #b5a99f;
+  padding: 20px 50px;
+}
+
+.footer-container p {
+  font-size: 18px;
+  font-family: "Inria Serif", serif;
+  font-weight: 500;
+  color: #403934;
+}
+
 @media (max-width: 900px) {
   .flex-container-2 {
     flex-direction: column;
@@ -149,5 +168,9 @@ figcaption {
 
   .table-item-left {
     border-right: none;
+  }
+
+  .background-container__quote h3 {
+    font-size: 1.2em;
   }
 }

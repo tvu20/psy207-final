@@ -2,7 +2,7 @@ import "./style.css";
 
 export const Treatments = () => {
   return (
-    <div className="banner-container" style={{ backgroundColor: "#D9D9D9" }}>
+    <div className="banner-container" style={{ backgroundColor: "#e0dad7" }}>
       <h3 style={{ color: "#4d3f3a" }}>Suggested Treatment Plan</h3>
       <p className="banner__text" style={{ marginBottom: "80px" }}>
         The most common treatment plan for bipolar disorder is to prescribe
